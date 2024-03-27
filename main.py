@@ -6,7 +6,7 @@ print(öğrenci1.öğrenciBilgi())
 öğretmen = Teacher("Ahmet Yilmaz")
 öğretmen.kanaatNotuEkle(öğrenci1, 5)
 
-öğrenci2 = Student("Enes", "Çetin", "True", "5B")
+öğrenci2 = Student("Enes", "Çetin", "False", "5B")
 öğrenci2.notEkle(73, 88)
 print(öğrenci2.öğrenciBilgi())
 
